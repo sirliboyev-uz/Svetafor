@@ -1,0 +1,16 @@
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\bin\Debug\Svetafor.exe.config
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\bin\Debug\Svetafor.exe
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\bin\Debug\Svetafor.pdb
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.csproj.AssemblyReference.cache
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\MainWindow.g.cs
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\App.g.cs
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor_MarkupCompile.cache
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor_MarkupCompile.lref
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\MainWindow.baml
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.g.resources
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.Properties.Resources.resources
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.csproj.GenerateResource.cache
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.csproj.CoreCompileInputs.cache
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.exe
+C:\Users\Sirli\source\repos\Svetafor\Svetafor\obj\Debug\Svetafor.pdb
